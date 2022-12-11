@@ -12,4 +12,4 @@ function provjeriKolikoImaSlova(event) {
     } else {
       uiObjekti.provjeriKolikoImaSlovaElement.innerHTML = `<p>Poruka nema više od 10 slova!</p>`;
     }
-}
+  }
